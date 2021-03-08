@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(81, 81, 117, 0);
+}
+header{
+    background-color: rgb(216, 231, 216);
+    list-style: none;
+    
+}
+h1{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.836);
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
